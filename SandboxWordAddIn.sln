@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxWordAddIn", "SandboxWordAddIn.csproj", "{37F4FFD1-43A7-4778-A782-BB3B67B3DCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F4FFD1-43A7-4778-A782-BB3B67B3DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F4FFD1-43A7-4778-A782-BB3B67B3DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F4FFD1-43A7-4778-A782-BB3B67B3DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F4FFD1-43A7-4778-A782-BB3B67B3DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01376DFD-3AB7-47A5-B53C-5162BEE1422D}
+	EndGlobalSection
+EndGlobal
